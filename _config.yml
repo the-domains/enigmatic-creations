@@ -6,9 +6,9 @@ color:
   saturation: 0.6693794068414718
   rhythmicContrast: 0.031052792444825172
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Enigmatic creations
